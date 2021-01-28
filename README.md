@@ -1,4 +1,4 @@
-# Using-Natural-Language-Processing-to-Determine-Canadian-Political-Landscape-based-on-Tweeter-Content
+# Using-Natural-Language-Processing-to-Determine-Canadian-Political-Landscape-based-on-Twitter-Content
 The aim of this project is to analyze the sentiment of the tweets related to the 2019 Canadian election. 
 
 After performing pre-processing tasks including removing stop words, punctuations, hashtags, and so on, I implemented 2 methods for feature selection: bag of words, and TF-IDF.
